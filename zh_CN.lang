@@ -472,8 +472,6 @@ worlds.storage.missing=找不到你的世界？请尝试更改Minecraft的存储
 
 ## 教育演示版
 deathScreen.quit.secondaryClient.confirmLeaveWarning=感谢你的探索！这是一个演示课程，因此你的进度不会被保存。
-menu.quit.edu=退出课程
-menu.quit.edu.title=退出演示课程
 start_screen.start_demo=开始课程
 lesson.finished=完成
 lesson.end.dialog.title=课程完成！
