@@ -1,4 +1,4 @@
-## Education strings
+## Education Edition
 authentication.popup.setup.title=账户设置	#
 authentication.popup.setup.firstPage.body=欢迎来到Minecraft教育版！%1%1在开始之前我们需要验证你的年龄。为此，我们将打开你的浏览器，要求你使用你的个人Microsoft账户登录。%1%1如果你没有个人Microsoft账户登录，无需担心……你可以在登录页面上创建账户。	#
 authentication.popup.setup.firstPage.learnMore=为什么需要验证我的年龄？	#
@@ -569,7 +569,7 @@ worlds.storage.missing=找不到你的世界？请尝试更改Minecraft的存储
 bookAndQuill.unsignedName=书	#
 
 
-## Education Demo strings
+## Education Edition Demo
 menu.quit.edu.title=退出演示课程	#
 start_screen.start_demo=开始课程	#
 lesson.finished=完成	#
@@ -638,7 +638,7 @@ hbui.CreateNewWorldSideMenu.host=托管	#
 hbui.CreateNewWorldSideMenu.narrationHostButtonHint=托管名为“%3$s”的%2$s难度%1$s世界。继续浏览以选择其他选项。	#
 
 
-## VR strings
+## VR
 xblLogin.LoginMessageGearVR=请将手机从头盔上取下来登录至Xbox网络。	#
 xblLogin.AddFriendMessageGearVR=请将手机从头盔上取下来添加Xbox网络好友。	#
 xblLogin.LoginMessageRift=请取下头盔来登录至Xbox网络。	#
@@ -814,7 +814,7 @@ ori.help.state=（?）如果你遇到了启动错误，请访问https://www.mine
 ori.warning.state=按下[确认]以在VR版Minecraft中进行游戏，或按下[取消]退出。	#
 
 
-## Beta strings
+## Beta
 beta.loading.1=如果你玩的是Beta版，那么你只能和其他也在Beta版上进行游戏的好友联机！
 beta.loading.2=请记住，如果你玩的是Beta版，那么你不能在大多数服务器上进行游戏。
 beta.loading.3=你在Beta版中购买的一切都是有效的。即使退出Beta版，你的购买也不会消失。
@@ -834,7 +834,7 @@ beta.loading.16=你知道你可以在discord.gg/Minecraft上与我们的开发�
 beta.loading.17=不用担心崩溃，因为在Beta版出现崩溃可能意味着以后版本的崩溃次数会少一些！
 
 
-## Preview App strings
+## Preview
 gui.importRetailWorld.text.1=必须先导入此世界，才能在Preview版中使用。
 gui.importRetailWorld.text.3=你要创建此世界的Preview版副本存档吗？
 playscreen.beta_legacy_worlds=旧Preview版世界
@@ -847,7 +847,7 @@ tips.previewapp.4=关于新的功能有什么好的建议吗？请在反馈网�
 tips.previewapp.5=你知道你可以在discord.gg/Minecraft上与我们的开发人员聊天吗？
 
 
-## Some lost strings (includes in 1.21.110.20 Preview)
+## Missing Strings (includes in 1.21.110.20 Preview)
 action.interact.wax_on=涂蜡	#
 action.interact.wax_off=脱蜡	#
 action.interact.scrape=刮削	#
