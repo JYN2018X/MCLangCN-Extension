@@ -1,6 +1,6 @@
 ## Education Edition
 authentication.popup.setup.title=账户设置	#
-authentication.popup.setup.firstPage.body=欢迎来到Minecraft教育版！%1%1在开始之前，我们需要验证你的年龄。为此，我们将打开你的浏览器，并要求你使用你的个人Microsoft账户登录。%1%1如果你尚未拥有个人Microsoft账户，无需担心…… 你可以在登录页面创建账户。	#
+authentication.popup.setup.firstPage.body=欢迎来到Minecraft教育版！%1%1在开始之前，我们需要验证你的年龄。为此，我们将打开你的浏览器，并要求你使用你的个人Microsoft账户登录。%1%1如果你尚未拥有个人Microsoft账户，无需担心……你可以在登录页面创建账户。	#
 authentication.popup.setup.firstPage.learnMore=为什么需要验证我的年龄？	#
 authentication.popup.setup.firstPage.button=立即验证	#
 authentication.popup.setup.secondPage.body=我们在你的浏览器中打开了账户设置页面。请在该页面登录你的个人Microsoft账户并验证你的年龄。%1%1完成后请告知我们。	#
