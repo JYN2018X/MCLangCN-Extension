@@ -18,11 +18,10 @@ Source repository [MCLangCN](https://github.com/ff98sha/mclangcn) is made by [@f
 按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布<br>
 License Under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
-Crowdin：
 
-[![Crowdin](https://badges.crowdin.net/testprojecttermstest/localized.svg)](https://crowdin.com/project/testprojecttermstest)
+Crowdin：[![Crowdin](https://badges.crowdin.net/testprojecttermstest/localized.svg)](https://crowdin.com/project/testprojecttermstest)
 
 
 Further Plan: publish release version
 
-未来计划：，并发布正式版
+未来计划：发布正式版
