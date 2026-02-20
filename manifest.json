@@ -25,29 +25,30 @@
         {
             "folder_name": "education",
             "name": "Education",
-            "memory_tier": 0,
+            "memory_tier": 1,
             "memory_performance_tier": 1
         },
         {
             "folder_name": "education_demo",
             "name": "Education Demo",
-            "memory_tier": 0,
+            "memory_tier": 1,
             "memory_performance_tier": 1        
         },
         {
             "folder_name": "beta",
             "name": "Beta",
-            "memory_tier": 0,
+            "memory_tier": 1,
             "memory_performance_tier": 1
         },
         {
             "folder_name": "preview",
             "name": "Preview",
-            "memory_tier": 0,
+            "memory_tier": 1,
             "memory_performance_tier": 1
         }
     ]
 }
+
 
 
 
