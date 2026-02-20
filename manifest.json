@@ -4,7 +4,7 @@
         "description": "No longer need to bear more terrible translations.",
         "name": "BE Translation Patch Extension",
         "uuid": "e176b120-0923-4b51-8d6a-1e6d904644d3",
-        "version": "26.1.0",
+        "version": "1.26.0",
         "platform_locked" : false,
         "min_engine_version": "1.21.0"
     },
@@ -13,7 +13,7 @@
             "description": "No longer need to bear more terrible translations.",
             "type": "resources",
             "uuid": "d76c5fbd-72dd-47bd-a117-be41ba63e389",
-            "version": "26.1.0"
+            "version": "1.26.0"
         }
     ],
     "metadata": {
@@ -44,3 +44,4 @@
         }
     ]
 }
+
