@@ -24,24 +24,23 @@
     "subpacks": [
         {
             "folder_name": "education",
-            "name": "Education",
+            "name": "This subpack is for §eMinecraft Education§f content.",
             "memory_performance_tier": 1
         },
         {
             "folder_name": "education_demo",
-            "name": "Education Demo",
+            "name": "This subpack is for §eMinecraft Education Demo§f content.",
             "memory_performance_tier": 2
         },
         {
             "folder_name": "beta",
-            "name": "Beta",
+            "name": "This subpack is for §eMinecraft Beta§f content.",
             "memory_performance_tier": 3
         },
         {
             "folder_name": "preview",
-            "name": "Preview",
+            "name": "This subpack is for §eMinecraft Preview§f content.",
             "memory_performance_tier": 4
         }
     ]
 }
-
