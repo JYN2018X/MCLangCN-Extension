@@ -30,17 +30,17 @@
         {
             "folder_name": "education_demo",
             "name": "This subpack is for §eMinecraft Education Demo§f content.",
-            "memory_performance_tier": 2
+            "memory_performance_tier": 1
         },
         {
             "folder_name": "beta",
             "name": "This subpack is for §eMinecraft Beta§f content.",
-            "memory_performance_tier": 3
+            "memory_performance_tier": 1
         },
         {
             "folder_name": "preview",
             "name": "This subpack is for §eMinecraft Preview§f content.",
-            "memory_performance_tier": 4
+            "memory_performance_tier": 1
         }
     ]
 }
